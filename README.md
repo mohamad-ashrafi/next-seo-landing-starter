@@ -4,7 +4,7 @@ Minimal, SEO-focused landing page starter built with **Next.js 16 (App Router)**
 
 Use it as the base for your next SaaS, product launch or personal website.
 
-> 🧪 Demo: **TBD** – will be added after Vercel deployment.
+> 🧪 Demo: **https://next-seo-landing-starter.vercel.app** 
 
 ---
 
